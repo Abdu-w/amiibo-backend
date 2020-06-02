@@ -20,6 +20,6 @@ Propsoe for amiibo collectors who need some organization
 
 
 ## Wireframe:
-![Main Page](../Wireframe/wireframe.png)
+![Main Page](/Wireframe/wireframe.png)
 
 ## Link:
